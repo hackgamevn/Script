@@ -1,0 +1,7 @@
+-- this script created at https://lambloxfruitscript.vercel.app/
+getgenv().ScriptTitle = "Bu Crack💢"
+getgenv().ScriptSubTitle = "By Bu💢"
+getgenv().ScriptImage = "https://i.ibb.co/BKB9JyNS/1000060083.jpg"
+getgenv().ScriptAuthorName = "Author Name"
+getgenv().ScriptAuthorSubTitle = "https://t.me/busharehackfree"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hoannhatz/Script/refs/heads/main/EZScript.lua"))()
